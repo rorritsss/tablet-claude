@@ -1,0 +1,6 @@
+*.img
+*.img.gz
+*.img.xz
+*.zip
+platform-tools/
+usb_driver/
